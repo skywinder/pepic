@@ -140,3 +140,5 @@ Temporary Items
 
 # Exclude upload folders
 uploads/*
+.gitsecret/keys/random_seed
+!*.secret
